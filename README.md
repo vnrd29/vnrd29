@@ -1,3 +1,4 @@
-Hi, I’m @vnrd29
-I’m interested in programming
-I’m currently learning python
+- Hi, I’m @vnrd29
+- I’m interested in programming
+- I’m currently learning python
+- And I'm also ready to learn new programming languages
